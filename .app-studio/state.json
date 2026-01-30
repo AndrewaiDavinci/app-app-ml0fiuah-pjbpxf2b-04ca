@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "savedAt": "2026-01-30T05:15:11.218Z",
+  "savedAt": "2026-01-30T05:15:41.165Z",
   "appMeta": {
     "appTitle": "디자인 스튜디오 회사 홈페이지",
     "chatPrompt": "이 디자인으로 회사홈페이지 만들어줘",
-    "createdAt": "2026-01-30T05:15:11.218Z",
-    "lastModifiedAt": "2026-01-30T05:15:11.218Z"
+    "createdAt": "2026-01-30T05:15:41.165Z",
+    "lastModifiedAt": "2026-01-30T05:15:41.165Z"
   },
   "chatHistory": [
     {
@@ -115,6 +115,18 @@
       "role": "assistant",
       "content": "App is ready! Check the Preview tab. You can apply changes by typing modifications.",
       "timestamp": "2026-01-30T05:15:10.591Z"
+    },
+    {
+      "id": "msg_1769750111219_k6jm7jj",
+      "role": "system",
+      "content": "앱이 갤러리에 저장되었습니다: \"이 디자인으로 회사홈페이지 만들어줘\"",
+      "timestamp": "2026-01-30T05:15:11.219Z"
+    },
+    {
+      "id": "msg_1769750132289_yslah26",
+      "role": "system",
+      "content": "GitHub에 자동 저장되었습니다: [AndrewaiDavinci/app-app-ml0fiuah-pjbpxf2b-04ca](https://github.com/AndrewaiDavinci/app-app-ml0fiuah-pjbpxf2b-04ca)",
+      "timestamp": "2026-01-30T05:15:32.289Z"
     }
   ],
   "planning": {
@@ -306,17 +318,6 @@
     ]
   },
   "terminalLogs": [
-    "[Fix] 런타임 에러 1개 분석 중...",
-    "[Fix] AI 기반 심층 디버깅 시작...",
-    "[Fix] AI 분석 중: src/components/Navigation.jsx (1개 에러)",
-    "[state] FIXING: 1개 오류 발견",
-    "[Fix] ✅ AI 수정 완료: src/components/Navigation.jsx",
-    "[Fix] AI로 총 1개 파일 수정 완료",
-    "[Fix] 수정 완료, 재검증을 시작합니다...",
-    "\n🔍 Validating 37 files...",
-    "⚠️ Found 1 errors, attempting to fix...",
-    "[Fix] 오류 수정 시도 2/5 - 1개 오류 발견",
-    "[Fix] 오류 분류: Runtime: 1",
     "[Fix] 휴리스틱 패턴 매칭으로 빠른 수정 시도 중...",
     "[Fix] 런타임 에러 1개 분석 중...",
     "[Fix] AI 기반 심층 디버깅 시작...",
@@ -355,7 +356,18 @@
     "✅ Server ready at: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
     "[success] Server ready: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
     "[success] Server ready: https://ockiu31nlxm2s74r6m3c7ye9q7aqzn-kkxp--5173--31fc58ec.local-corp.webcontainer-api.io",
-    "[state] REVIEWING: 앱 실행 중"
+    "[state] REVIEWING: 앱 실행 중",
+    "[success] 갤러리에 저장 완료: 2300a48e-3978-437d-b3f0-0161e25c10f3",
+    "[GitHub] 자동 저장 시작...",
+    "[state] 앱 상태 직렬화 완료 (채팅: 12개, Blueprint: O, Planning: O)",
+    "[GitHub] 새 레포지토리 생성 중...",
+    "✅ 앱 빌드 및 검증 완료",
+    "[state] IDLE: 대기 중",
+    "[GitHub] ✅ 커밋 완료: b497861",
+    "[GitHub] 저장 완료: https://github.com/AndrewaiDavinci/app-app-ml0fiuah-pjbpxf2b-04ca",
+    "[Project] 기존 프로젝트 확인 중...",
+    "[Project] 프로젝트 생성 중...",
+    "[Project] 프로젝트 생성 완료: 8652d227-cc6a-45a1-8d1b-f8244177825c"
   ],
   "phaseProgress": {
     "currentPhaseIndex": 1,
